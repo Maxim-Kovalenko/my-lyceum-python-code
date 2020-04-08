@@ -12,6 +12,3 @@ while True:
         print("Oh No!")
         print("You lost!")
         print("Game Over!")
-    else:
-        print("Oops!")
-        print("Invalid input!")
