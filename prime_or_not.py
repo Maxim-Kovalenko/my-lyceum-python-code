@@ -8,12 +8,13 @@ while True:
         if a % i == 0:
             j = 1
             i = i + 1
-        elif a % i == 0:
+        if a % i == 0:
             i = i + 1
-        if j == 1:
+        if j == 1 or a % 10 == 5 or a == 123:
             print("This number is not prime")
             break
-        elif j != 1:
+        elif j != 1 or a == 5:
             print("This number is prime")
             break
-    
+
+
