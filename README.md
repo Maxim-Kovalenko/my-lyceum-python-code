@@ -1,3 +1,3 @@
-# python-games
-Really cool and interesting python games 
+# my-lyceum-python-code
+My Python programs for lyceum
 
